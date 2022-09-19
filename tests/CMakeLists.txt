@@ -1,1 +1,5 @@
+add_executable(test_interp1d test_interp1d.cpp)
+target_link_libraries(test_interp1d LINK_PUBLIC linalg)
+target_link_libraries(test_interp1d LINK_PUBLIC interpol)
 
+add_test(test_interp1d test_interp1d)
