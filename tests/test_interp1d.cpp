@@ -1,4 +1,4 @@
-#include "interpol.h"
+#include "../include/interpol.h"
 
 void test_contructors() {
     Interpolator1D I1;
