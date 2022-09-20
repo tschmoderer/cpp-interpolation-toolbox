@@ -1,4 +1,4 @@
-#include "interpol.h"
+#include "../include/interpol.h"
 #include "matplotlibcpp.h"
 
 namespace plt = matplotlibcpp;
