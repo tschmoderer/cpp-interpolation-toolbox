@@ -1,12 +1,12 @@
-<map id="src/interpol.h" name="src/interpol.h">
-<area shape="rect" id="node1" title="Main header file for interpolation library." alt="" coords="208,5,304,32"/>
+<map id="include/interpol.h" name="include/interpol.h">
+<area shape="rect" id="node1" title="Main header file for interpolation library." alt="" coords="197,5,315,32"/>
 <area shape="rect" id="node2" href="$interpolator_8h.html" title="Header file for Interpolator abstract class." alt="" coords="208,155,304,181"/>
 <area shape="rect" id="node10" href="$interpolator1d_8h.html" title="Header file for 1D interpolator operator class." alt="" coords="247,80,358,107"/>
 <area shape="rect" id="node3" href="$utils_8h.html" title=" " alt="" coords="228,229,284,256"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,304,67,331"/>
-<area shape="rect" id="node5" title=" " alt="" coords="91,304,152,331"/>
-<area shape="rect" id="node6" title=" " alt="" coords="177,304,242,331"/>
-<area shape="rect" id="node7" title=" " alt="" coords="267,304,339,331"/>
-<area shape="rect" id="node8" title=" " alt="" coords="363,304,426,331"/>
-<area shape="rect" id="node9" title=" " alt="" coords="450,304,513,331"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,311,67,338"/>
+<area shape="rect" id="node5" title=" " alt="" coords="91,311,152,338"/>
+<area shape="rect" id="node6" title=" " alt="" coords="177,311,242,338"/>
+<area shape="rect" id="node7" title=" " alt="" coords="267,311,339,338"/>
+<area shape="rect" id="node8" title=" " alt="" coords="363,311,426,338"/>
+<area shape="rect" id="node9" title=" " alt="" coords="450,304,579,345"/>
 </map>
