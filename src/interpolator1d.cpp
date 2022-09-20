@@ -7,7 +7,7 @@
  * @copyright Copyright (c) 2022
  */
 
-#include "interpolator1d.h"
+#include "../include/interpolator1d.h"
 
 /* CONSTRUCTORS */
 /**
