@@ -8,6 +8,6 @@
 #include <iostream>
 #include <stdlib.h>
 
-#include "linalg.h"
+#include "../src/linalg/include/linalg.h"
 
 #endif
