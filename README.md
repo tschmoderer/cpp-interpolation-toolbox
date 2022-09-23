@@ -1,4 +1,5 @@
 # cpp-template-repo
+
 A template repository for C++ projects
 
 ## Build sources 
@@ -8,6 +9,7 @@ A template repository for C++ projects
 To Be Completed
 
 ### Unix systems
+
 **Require**: cmake ; g++ ; (opt) valgrind
 
 ```bash
@@ -20,4 +22,5 @@ make test
 ```
 
 ## MacOs
+
 To Be Completed
